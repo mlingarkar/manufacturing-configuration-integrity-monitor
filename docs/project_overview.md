@@ -49,6 +49,3 @@ Running `python src/main.py` creates:
 - `outputs/figures/configuration_risk_scores.png`
 - `outputs/figures/traceability_network.png`
 
-## Portfolio Value
-
-This project demonstrates applied analytics for manufacturing operations, quality systems, configuration control, revision traceability, and production risk monitoring. It is designed to show practical awareness of how documentation, suppliers, engineering changes, and production execution interact in high-compliance environments.
