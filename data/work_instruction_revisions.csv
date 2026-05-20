@@ -1,0 +1,11 @@
+work_instruction_id,assembly_id,manufacturing_cell,work_instruction_revision,expected_revision,last_review_days_ago,approval_status
+WI-1000,ASM-1000,Final Integration,D,E,78,Requires Review
+WI-1001,ASM-1001,Electronics Cell,D,D,79,Approved
+WI-1002,ASM-1002,Assembly Cell A,D,D,29,Approved
+WI-1003,ASM-1003,Assembly Cell B,E,E,24,Approved
+WI-1004,ASM-1004,Final Integration,E,E,70,Approved
+WI-1005,ASM-1005,Assembly Cell B,C,C,136,Approved
+WI-1006,ASM-1006,Assembly Cell A,B,B,148,Approved
+WI-1007,ASM-1007,Assembly Cell B,D,D,32,Approved
+WI-1008,ASM-1008,Final Integration,C,C,98,Approved
+WI-1009,ASM-1009,Assembly Cell B,E,E,102,Pending Approval

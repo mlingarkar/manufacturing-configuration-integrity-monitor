@@ -1,0 +1,68 @@
+supplier_name,assembly_id,part_id,supplier_confirmed_revision,expected_revision,supplier_acknowledgement_days,supplier_status
+Apex Precision,ASM-1000,P-1000-01,E,E,21,Current
+Apex Precision,ASM-1000,P-1000-03,D,E,44,Lagging
+Apex Precision,ASM-1000,P-1000-04,E,E,22,Current
+Apex Precision,ASM-1001,P-1001-03,C,D,32,Lagging
+Apex Precision,ASM-1001,P-1001-05,B,D,49,Critical Lag
+Apex Precision,ASM-1001,P-1001-06,B,D,51,Critical Lag
+Apex Precision,ASM-1002,P-1002-01,D,D,16,Current
+Apex Precision,ASM-1004,P-1004-03,D,E,57,Lagging
+Apex Precision,ASM-1005,P-1005-06,C,C,25,Current
+Apex Precision,ASM-1005,P-1005-07,C,C,19,Current
+Apex Precision,ASM-1006,P-1006-04,B,B,6,Current
+Apex Precision,ASM-1006,P-1006-08,B,B,17,Current
+Apex Precision,ASM-1007,P-1007-06,D,D,26,Current
+Apex Precision,ASM-1009,P-1009-03,D,E,36,Lagging
+Apex Precision,ASM-1009,P-1009-07,E,E,6,Current
+Helix Electronics,ASM-1002,P-1002-06,D,D,27,Current
+Helix Electronics,ASM-1002,P-1002-08,D,D,18,Current
+Helix Electronics,ASM-1005,P-1005-02,C,C,32,Current
+Helix Electronics,ASM-1005,P-1005-04,B,C,41,Lagging
+Helix Electronics,ASM-1006,P-1006-01,A,B,50,Lagging
+Helix Electronics,ASM-1007,P-1007-01,D,D,28,Current
+Helix Electronics,ASM-1007,P-1007-04,D,D,12,Current
+Helix Electronics,ASM-1007,P-1007-05,D,D,4,Current
+Helix Electronics,ASM-1008,P-1008-05,C,C,26,Current
+Helix Electronics,ASM-1008,P-1008-06,B,C,25,Lagging
+Helix Electronics,ASM-1009,P-1009-06,C,E,57,Critical Lag
+Nova Circuits,ASM-1001,P-1001-01,D,D,6,Current
+Nova Circuits,ASM-1001,P-1001-02,B,D,44,Critical Lag
+Nova Circuits,ASM-1002,P-1002-07,B,D,37,Critical Lag
+Nova Circuits,ASM-1003,P-1003-01,D,E,50,Lagging
+Nova Circuits,ASM-1003,P-1003-02,E,E,17,Current
+Nova Circuits,ASM-1004,P-1004-02,D,E,29,Lagging
+Nova Circuits,ASM-1004,P-1004-05,E,E,25,Current
+Nova Circuits,ASM-1005,P-1005-03,C,C,33,Current
+Nova Circuits,ASM-1006,P-1006-02,B,B,2,Current
+Nova Circuits,ASM-1007,P-1007-02,C,D,48,Lagging
+Nova Circuits,ASM-1007,P-1007-03,D,D,14,Current
+Nova Circuits,ASM-1008,P-1008-04,B,C,38,Lagging
+Nova Circuits,ASM-1008,P-1008-07,B,C,14,Lagging
+Nova Circuits,ASM-1009,P-1009-04,C,E,42,Critical Lag
+Orion Machining,ASM-1001,P-1001-04,C,D,33,Lagging
+Orion Machining,ASM-1002,P-1002-05,C,D,40,Lagging
+Orion Machining,ASM-1003,P-1003-05,E,E,16,Current
+Orion Machining,ASM-1005,P-1005-01,B,C,41,Lagging
+Orion Machining,ASM-1005,P-1005-08,B,C,31,Lagging
+Orion Machining,ASM-1006,P-1006-06,B,B,2,Current
+Orion Machining,ASM-1006,P-1006-07,B,B,29,Current
+Orion Machining,ASM-1007,P-1007-07,C,D,46,Lagging
+Summit Coatings,ASM-1000,P-1000-05,D,E,20,Lagging
+Summit Coatings,ASM-1002,P-1002-02,C,D,57,Lagging
+Summit Coatings,ASM-1002,P-1002-03,C,D,50,Lagging
+Summit Coatings,ASM-1002,P-1002-04,C,D,26,Lagging
+Summit Coatings,ASM-1003,P-1003-04,E,E,5,Current
+Summit Coatings,ASM-1004,P-1004-04,E,E,19,Current
+Summit Coatings,ASM-1006,P-1006-03,A,B,27,Lagging
+Summit Coatings,ASM-1008,P-1008-01,C,C,28,Current
+Summit Coatings,ASM-1008,P-1008-02,C,C,2,Current
+Summit Coatings,ASM-1008,P-1008-03,B,C,44,Lagging
+Summit Coatings,ASM-1009,P-1009-01,E,E,18,Current
+Summit Coatings,ASM-1009,P-1009-05,E,E,2,Current
+Vector Components,ASM-1000,P-1000-02,D,E,38,Lagging
+Vector Components,ASM-1003,P-1003-03,E,E,14,Current
+Vector Components,ASM-1003,P-1003-06,E,E,14,Current
+Vector Components,ASM-1004,P-1004-01,E,E,19,Current
+Vector Components,ASM-1005,P-1005-05,B,C,49,Lagging
+Vector Components,ASM-1006,P-1006-05,B,B,10,Current
+Vector Components,ASM-1009,P-1009-02,E,E,15,Current

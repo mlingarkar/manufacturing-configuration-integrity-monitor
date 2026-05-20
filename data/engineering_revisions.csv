@@ -1,0 +1,11 @@
+assembly_id,assembly_name,expected_revision,engineering_change_notice,ecn_release_date,criticality,change_type
+ASM-1000,AVN-100 Flight Computer,E,ECN-2400,2025-01-15,Critical,Material Substitution
+ASM-1001,PWR-210 Power Distribution Unit,D,ECN-2401,2025-01-23,High,Design Update
+ASM-1002,COM-330 Communications Module,D,ECN-2402,2025-02-09,High,Supplier Change
+ASM-1003,SNS-450 Sensor Payload,E,ECN-2403,2025-02-25,Critical,Inspection Update
+ASM-1004,CTL-500 Actuator Controller,E,ECN-2404,2025-03-10,Medium,Supplier Change
+ASM-1005,THM-620 Thermal Regulation Unit,C,ECN-2405,2025-03-23,Medium,Inspection Update
+ASM-1006,NAV-700 Guidance Assembly,B,ECN-2406,2025-04-11,Critical,Material Substitution
+ASM-1007,RAD-810 Radar Interface Board,D,ECN-2407,2025-04-19,High,Material Substitution
+ASM-1008,DRV-900 Motor Drive Assembly,C,ECN-2408,2025-05-05,Medium,Process Improvement
+ASM-1009,STR-115 Structural Bracket Kit,E,ECN-2409,2025-05-14,Low,Material Substitution

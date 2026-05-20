@@ -1,0 +1,68 @@
+assembly_id,part_id,part_type,part_revision,expected_revision,supplier_name,quantity_per_assembly,is_single_source,obsolete_flag
+ASM-1000,P-1000-01,Connector,E,E,Apex Precision,7,False,False
+ASM-1000,P-1000-02,Harness,D,E,Vector Components,4,False,True
+ASM-1000,P-1000-03,Connector,E,E,Apex Precision,8,False,False
+ASM-1000,P-1000-04,Connector,E,E,Apex Precision,10,False,False
+ASM-1000,P-1000-05,Machined Housing,E,E,Summit Coatings,10,False,False
+ASM-1001,P-1001-01,Firmware,D,D,Nova Circuits,9,True,False
+ASM-1001,P-1001-02,PCB,D,D,Nova Circuits,9,False,False
+ASM-1001,P-1001-03,Fastener,D,D,Apex Precision,5,False,False
+ASM-1001,P-1001-04,Coating,D,D,Orion Machining,7,False,False
+ASM-1001,P-1001-05,Sensor,D,D,Apex Precision,4,False,False
+ASM-1001,P-1001-06,Machined Housing,D,D,Apex Precision,3,False,False
+ASM-1002,P-1002-01,Fastener,D,D,Apex Precision,7,True,False
+ASM-1002,P-1002-02,Machined Housing,D,D,Summit Coatings,4,False,False
+ASM-1002,P-1002-03,Harness,D,D,Summit Coatings,6,False,False
+ASM-1002,P-1002-04,Connector,D,D,Summit Coatings,6,False,False
+ASM-1002,P-1002-05,Connector,D,D,Orion Machining,4,False,False
+ASM-1002,P-1002-06,Machined Housing,D,D,Helix Electronics,6,False,True
+ASM-1002,P-1002-07,Coating,B,D,Nova Circuits,8,False,False
+ASM-1002,P-1002-08,Connector,D,D,Helix Electronics,2,False,False
+ASM-1003,P-1003-01,Connector,E,E,Nova Circuits,6,True,False
+ASM-1003,P-1003-02,Firmware,D,E,Nova Circuits,7,False,False
+ASM-1003,P-1003-03,Coating,E,E,Vector Components,9,False,False
+ASM-1003,P-1003-04,PCB,E,E,Summit Coatings,2,False,False
+ASM-1003,P-1003-05,Bracket,E,E,Orion Machining,5,False,True
+ASM-1003,P-1003-06,Machined Housing,E,E,Vector Components,6,True,True
+ASM-1004,P-1004-01,PCB,E,E,Vector Components,11,False,False
+ASM-1004,P-1004-02,Bracket,E,E,Nova Circuits,6,False,False
+ASM-1004,P-1004-03,Connector,E,E,Apex Precision,10,False,False
+ASM-1004,P-1004-04,Sensor,E,E,Summit Coatings,2,False,False
+ASM-1004,P-1004-05,Fastener,D,E,Nova Circuits,2,True,False
+ASM-1005,P-1005-01,Fastener,C,C,Orion Machining,5,True,False
+ASM-1005,P-1005-02,Harness,B,C,Helix Electronics,7,False,False
+ASM-1005,P-1005-03,Fastener,C,C,Nova Circuits,2,False,True
+ASM-1005,P-1005-04,Harness,C,C,Helix Electronics,2,True,True
+ASM-1005,P-1005-05,Coating,B,C,Vector Components,4,True,False
+ASM-1005,P-1005-06,Firmware,C,C,Apex Precision,9,False,False
+ASM-1005,P-1005-07,Coating,A,C,Apex Precision,2,True,False
+ASM-1005,P-1005-08,Machined Housing,C,C,Orion Machining,8,False,False
+ASM-1006,P-1006-01,Fastener,B,B,Helix Electronics,6,False,False
+ASM-1006,P-1006-02,Connector,B,B,Nova Circuits,2,False,False
+ASM-1006,P-1006-03,Bracket,B,B,Summit Coatings,9,False,False
+ASM-1006,P-1006-04,Sensor,A,B,Apex Precision,9,False,False
+ASM-1006,P-1006-05,PCB,B,B,Vector Components,11,False,True
+ASM-1006,P-1006-06,Fastener,B,B,Orion Machining,4,True,True
+ASM-1006,P-1006-07,Harness,B,B,Orion Machining,10,False,False
+ASM-1006,P-1006-08,PCB,B,B,Apex Precision,7,True,True
+ASM-1007,P-1007-01,Firmware,D,D,Helix Electronics,1,False,False
+ASM-1007,P-1007-02,Connector,C,D,Nova Circuits,4,False,False
+ASM-1007,P-1007-03,Connector,C,D,Nova Circuits,5,False,False
+ASM-1007,P-1007-04,Bracket,D,D,Helix Electronics,4,False,False
+ASM-1007,P-1007-05,Connector,D,D,Helix Electronics,9,False,False
+ASM-1007,P-1007-06,Machined Housing,D,D,Apex Precision,3,False,False
+ASM-1007,P-1007-07,Firmware,D,D,Orion Machining,2,False,True
+ASM-1008,P-1008-01,Harness,C,C,Summit Coatings,1,False,False
+ASM-1008,P-1008-02,Connector,C,C,Summit Coatings,9,False,False
+ASM-1008,P-1008-03,Machined Housing,C,C,Summit Coatings,10,False,True
+ASM-1008,P-1008-04,Fastener,C,C,Nova Circuits,8,False,False
+ASM-1008,P-1008-05,Sensor,C,C,Helix Electronics,6,False,False
+ASM-1008,P-1008-06,Machined Housing,B,C,Helix Electronics,8,True,False
+ASM-1008,P-1008-07,PCB,B,C,Nova Circuits,9,True,True
+ASM-1009,P-1009-01,Sensor,D,E,Summit Coatings,6,False,False
+ASM-1009,P-1009-02,Firmware,D,E,Vector Components,8,False,False
+ASM-1009,P-1009-03,Sensor,E,E,Apex Precision,5,False,False
+ASM-1009,P-1009-04,Coating,E,E,Nova Circuits,5,False,False
+ASM-1009,P-1009-05,Machined Housing,E,E,Summit Coatings,11,False,True
+ASM-1009,P-1009-06,Bracket,E,E,Helix Electronics,6,True,False
+ASM-1009,P-1009-07,Sensor,E,E,Apex Precision,4,True,False

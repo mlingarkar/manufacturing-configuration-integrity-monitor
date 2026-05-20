@@ -1,0 +1,11 @@
+inspection_plan_id,assembly_id,inspection_method,inspection_revision,expected_revision,open_quality_notes,acceptance_criteria_status
+INSP-1000,ASM-1000,Visual Inspection,E,E,2,Aligned
+INSP-1001,ASM-1001,Electrical Test,D,D,2,Aligned
+INSP-1002,ASM-1002,Torque Verification,D,D,4,Aligned
+INSP-1003,ASM-1003,Visual Inspection,D,E,6,Potential Drift
+INSP-1004,ASM-1004,Functional Test,E,E,3,Aligned
+INSP-1005,ASM-1005,Dimensional Inspection,B,C,2,Potential Drift
+INSP-1006,ASM-1006,Dimensional Inspection,A,B,3,Potential Drift
+INSP-1007,ASM-1007,Visual Inspection,D,D,0,Aligned
+INSP-1008,ASM-1008,Torque Verification,B,C,1,Potential Drift
+INSP-1009,ASM-1009,Electrical Test,E,E,2,Aligned
